@@ -18,3 +18,5 @@ curl --location --request POST 'http://localhost:99/wakandaNew' \
 	--data-raw '{ "name": "Harshad", "age": 34 }'
 ```
 
+# References
+https://stackoverflow.com/questions/23070876/reading-body-of-http-request-without-modifying-request-state
