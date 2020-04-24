@@ -20,3 +20,6 @@ curl --location --request POST 'http://localhost:99/wakandaNew' \
 
 # References
 https://stackoverflow.com/questions/23070876/reading-body-of-http-request-without-modifying-request-state
+
+# Other Way
+- TeeReader https://golang.org/pkg/io/ check example on documentation page
